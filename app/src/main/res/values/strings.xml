@@ -1,0 +1,11 @@
+
+<resources>
+    <string name="app_name">RegexValidationApp</string>
+    <string-array name="departments">
+        <item>Computer Science</item>
+        <item>Business</item>
+        <item>Engineering</item>
+        <item>Medicine</item>
+        <item>Law</item>
+    </string-array>
+</resources>
